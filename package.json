@@ -1,0 +1,25 @@
+{
+  "name": "pickright",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "ShortlistAI is an AI-powered resume screening tool that helps recruiters evaluate and shortlist candidates instantly. Upload a resume, set job criteria, and get smart feedback and verdicts — all in seconds.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "Pranab Acharya",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^1.8.0",
+    "dotenv": "^17.0.1",
+    "express": "^5.1.0",
+    "mammoth": "^1.9.1",
+    "mongoose": "^8.16.1",
+    "multer": "^2.0.1",
+    "pdf-parse": "^1.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
