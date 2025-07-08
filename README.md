@@ -1,6 +1,6 @@
-# ShortlistAI
+# PickRight
 
-ShortlistAI is an AI-powered resume screening tool that helps recruiters evaluate and shortlist candidates instantly. Upload a resume, set job criteria, and get smart feedback and verdicts — all in seconds.
+PickRight is an AI-powered resume screening tool that helps recruiters evaluate and shortlist candidates instantly. Upload a resume, set job criteria, and get smart feedback and verdicts — all in seconds.
 
 ## Features
 - Upload resumes in PDF or DOCX format
