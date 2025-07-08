@@ -37,8 +37,8 @@ This is a Node.js-based backend API that uses **Google Gemini AI** to evaluate r
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/pranab-acharya/ai-resume-evaluator.git
-cd ai-resume-evaluator
+git clone https://github.com/pranab-acharya/pickright.git
+cd pickright
 ```
 
 ### 2. Install Dependencies
