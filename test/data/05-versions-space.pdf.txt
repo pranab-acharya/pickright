@@ -1,0 +1,356 @@
+
+
+G.A-17 (3rd
+t 
+Floor),BDA Colony, Bhubaneswar-751016 
+ 
+Sangram Keshari Sahoo 
+Male, 31 years 
+E-Mail: okclsangram@gmail.com, Voice: 7008111454 
+ 
+  PROFESSIONAL EXPERIENCE  
+ Associate Software Developer     
+ Project: OCAC Training Centre, E & IT Department, Govt. of Odisha                    Jan’2022 -  (Continue)                                                          
+  Odisha Knowledge Corporation Limited, Bhubaneswar 
+   Website URL: https://ocac.okcl.co.in/ 
+   Project  Overview: Led  the  development  and  management  of  a  high-functionality  website  and  administrative         
+module for the OCAC Training Centre, aimed at modernizing the infrastructure to support enhanced student counseling 
+and course management services. 
+     Technical Development and Design: 
+• Website  Development:  Architected  and  deployed  a  robust  digital  platform  that  seamlessly  supports  various 
+educational and administrative functionalities essential for student and course management. 
+• User Interface: Crafted an intuitive and user-friendly interface, integrating complex features for maintaining 
+student records, database management, scheduling, batch updates, and counseling activity tracking. 
+• Tech  Stack:  Utilized  a  versatile  tech  stack  comprising  HTML,  CSS,  Bootstrap,  Laravel,  and  the  TALL  stack 
+(Tailwind CSS, Alpine.js, Laravel, Livewire) for building a responsive, dynamic, and efficient website. 
+• Filament PHP Integration: Leveraged Filament PHP to enhance the admin panel’s capabilities, allowing smooth 
+management of backend operations such as record updates, user interactions, and content modifications. 
+• Admin Panel Features: Implemented advanced management tools in the admin panel, enabling administrators 
+to oversee system functions, handle data entries, generate reports, and update student records and counseling 
+session details. 
+    System Integration and Security: 
+• Integrated advanced analytics tools such as Google Analytics for real-time insights into website usage, and 
+Google Tag Manager for efficient tag management. 
+• Enhanced security through reCAPTCHA  v2 and other security protocols, ensuring safe user interactions and 
+data integrity. 
+• Incorporated measures to safeguard user data and system checks to mitigate potential threats. 
+    Search Engine Optimization and Content Development: 
+• Formulated and executed a comprehensive SEO strategy using SEMrush and other industry-standard tools, 
+significantly improving the website’s visibility and ranking on search engines. 
+• Contributed to content development to ensure high engagement, clarity, and value for prospective students 
+and users. 
+   Achievements: 
+• Successfully  bolstered  the  online  presence  of  the  OCAC  Training  Centre,  achieving  a  notable  rank  of  2  on 
+Google search results, greatly enhancing accessibility and visibility for educational resources. 
+• Improved operational efficiency and streamlined administrative processes through innovative use of Filament 
+PHP to facilitate easier content and record management. 
+  Key Additions Using Filament PHP: 
+• Enhanced  Admin  Dashboard:  Modified  and  extended  the  admin  panel  using  Filament  PHP,  enabling 
+administrators to update course content, manage user access, and create detailed reports effortlessly. 
+• Custom Widgets and Data Handling: Developed custom widgets for data visualization and batch management, 
+providing an improved overview of student activity and operational metrics. 
+• User Management Tools: Built tools for administrators to monitor student progress, handle enrollments, and 
+maintain records in real-time, enhancing overall service delivery and process transparency 
+   Project:Prealandaman Tours and Travels 
+  Project Status: Completed 
+  Company: Odisha Knowledge Corporation Limited, Bhubaneswar 
+  Client Location: Andaman and Nicobar Islands, India 
+  Website URL: pearlandamantravels.in 
+  Project Overview: Developed and maintained the Pearlandaman Tours and Travels website, a comprehensive    
+platform for a travel business based in the Andaman and Nicobar Islands. The site serves as an interactive portal for 
+visitors looking to explore the region through curated travel packages. It includes a rich set of features such as package 
+displays, pricing information, contact forms, galleries, and location details, all enhanced with a user-friendly interface 
+
+G.A-17 (3rd
+t 
+Floor),BDA Colony, Bhubaneswar-751016 
+ 
+and modern design elements. 
+      Technical Development and Design: 
+• Tech Stack Used: TALL Stack (Tailwind CSS, Alpine.js, Laravel, Livewire), supplemented with Filament PHP 
+for creating an intuitive admin panel. 
+• Frontend Features: 
+o Integrated Slider.js for dynamic content sliders showcasing travel packages, attractions, and customer 
+experiences. 
+o Created  comprehensive  package  details  pages,  including  user  comments,  reviews,  and  ratings  for 
+better visitor engagement. 
+o Developed responsive layouts with Tailwind CSS for seamless display on various devices. 
+• Admin Panel: 
+o Implemented using Filament PHP for ease of management, allowing the admin to oversee all website 
+functionalities, update package information, and manage customer bookings. 
+o Integrated features for booking management, payment acceptance, and tour package confirmations. 
+o Designed a page dashboard for detailed overviews of bookings, confirmations, and payment statuses, 
+with graphs powered by Chart.js for visual data representation. 
+o Added capabilities for receipt generation and client updates within the admin panel. 
+• Storage and Security: 
+o Utilized Cloudflare R2 for secure and scalable storage solutions. 
+o Implemented Cloudflare CAPTCHA for enhanced security to prevent spam and unauthorized access. 
+• System Analytics: 
+o Integrated Google Analytics for tracking visitor behavior, enhancing decision-making based on real-
+time data. 
+o Deployed Google Tag Manager for efficient handling and updating of marketing tags. 
+    Features and Functionality: 
+• Package  Display  and  Booking: Created  detailed  package  listings  with  user-friendly  booking  options  and 
+payment processing capabilities. 
+• Contact and Location: Designed contact forms and embedded maps for easy communication and navigation. 
+• Reviews  and  Engagement: Enabled  review  submissions,  ratings,  and  feedback  mechanisms  for  users  to 
+share their travel experiences. 
+• Admin  Operations: Admins  can  print  receipts,  update  tour  details,  and  have  comprehensive  control  over 
+client management. 
+    Achievements: 
+• Launched a full-featured, robust travel website that significantly improved the business’s online presence and 
+customer interaction. 
+• Delivered  a  smooth  and  secure  user  experience  while  incorporating  advanced  data  visualization  and 
+management for the admin panel. 
+• Enhanced  operational  efficiency  through  automated  and  streamlined  processes  within  the  admin  interface, 
+contributing to better service delivery. 
+   Security and Optimization: 
+• Integrated Cloudflare services to provide security and optimize content delivery. 
+• Employed Cloudflare CAPTCHA to enhance user interactions by adding another layer of security. 
+ This project showcases a blend of cutting-edge web technologies and robust design principles to support a seamless   
+and engaging user experience, aligning with the client's business goals to enhance customer reach and operational 
+management. 
+  Project:Learning Recovery Programme (LRP), OSEPA, Govt. of Odisha 
+Website URL: https://lrp.odisha.gov.in / 
+      Project Overview: Developed a sophisticated online platform for the Learning Recovery Programme, an initiative           
+by OSEPA to address the educational setbacks faced by students during the COVID-19 pandemic. The project involved 
+creating a centralized system to facilitate the monitoring and enhancement of student learning across various districts 
+in Odisha. 
+      Technical Development: 
+• Led the design and development of the LRP website (lrp.odisha.gov.in) using Laravel, ensuring a robust and 
+scalable framework to support extensive data handling and user interactions. 
+
+G.A-17 (3rd
+t 
+Floor),BDA Colony, Bhubaneswar-751016 
+ 
+• Implemented front-end technologies including HTML, CSS, JavaScript, jQuery, and Ajax to deliver a seamless 
+and dynamic user experience, enabling real-time updates and interactions on the platform. 
+• Engineered a secure and efficient back-end using MySQL, integrating complex data management systems to 
+store and process educational data effectively. 
+     Project Management and Coordination: 
+• Coordinated with a team of developers and multiple stakeholders including educational authorities and technical 
+teams to align project objectives with technical execution. 
+• Managed a decentralized team of District Coordinators and Project Coordinators responsible for overseeing the 
+educational recovery process in 15 districts. Provided them with comprehensive admin rights on the platform 
+to monitor, report, and manage educational activities. 
+• Designed  a  central  administrative  dashboard  for  OSEPA  authorities,  facilitating  enhanced  oversight  and 
+strategic decision-making based on real-time data from across the state. 
+     User Role Management and Data Integration: 
+• Configured multiple user roles within the platform, including roles for Block Education Officers (BEOs), District 
+Education Officers (DEOs), and Resource Persons (RPs), each tailored to meet specific operational needs and 
+security levels. 
+• Developed functionalities for Resource Persons to visit schools, assess student progress, and update learning 
+metrics directly into the system, ensuring accurate and timely data collection. 
+     Financial and Operational Management: 
+• Implemented a sophisticated payment management system to process and manage financial transactions for 
+Resource Persons and Project Coordinators, thereby ensuring accountability and financial transparency within 
+the project framework. 
+      SEO and Analytics: 
+• Applied advanced SEO strategies and utilized tools like Google Analytics to monitor site performance and user 
+engagement, enhancing the visibility and accessibility of the website. 
+ 
+Project: Learning Companion (LC) 
+Website URL: https://lc.okcl.co.in/ 
+• Project  Overview:  Led  the  development  of  the  Learning  Companion  (LC)  platform,  an in-house  project 
+designed to deliver video courses to students across Odisha. The initiative targeted students from class 3 to 
+class 10, accommodating both the Odia and CBSE boards, and providing content in Odia and English. 
+• Technical Development and Implementation: 
+• Developed the LC website using a combination of HTML, CSS, Laravel, Bootstrap, MySQL, JavaScript, and Ajax, 
+creating a robust and scalable platform tailored for educational content delivery. 
+• Designed  a  user-friendly  interface  that  facilitates  both  individual  users  and  institutions  in  purchasing  and 
+accessing educational courses, enhancing the flexibility and reach of the program. 
+• Integrated a secure payment system to streamline the transaction process for course purchases, ensuring ease 
+of access and financial security. 
+Admin Panel and User Management: 
+• Engineered  a  comprehensive  admin  panel  that  allows  for  detailed  management  of  user  accounts,  including 
+creation  for  offline  purchases,  which  broadens  the  accessibility  of  courses  to  users  with  limited  internet 
+connectivity. 
+• Implemented  tools  for  managing  student  course  assignments,  tracking  payment  details,  and  generating 
+detailed login and study reports, thereby providing valuable insights into user engagement and educational 
+progress. 
+System Features and Functionality: 
+• Developed  advanced  functionalities  to  support  extensive  data  handling  and  user  management,  ensuring  a 
+seamless operational flow and enhancing the educational experience for both students and administrators. 
+• Ensured the platform’s compliance with educational standards and digital security norms, making it a reliable 
+resource for educational institutions and individual learners alike. 
+• Achievements: 
+• Successfully  deployed  a  versatile  educational  platform  that  has  significantly  enhanced  the  learning 
+opportunities  for  students  across  multiple  educational  boards  in  Odisha,  reflecting  positively  on  digital 
+education outreach efforts. 
+• Website: lc.okcl.co.in 
+
+G.A-17 (3rd
+t 
+Floor),BDA Colony, Bhubaneswar-751016 
+ 
+ 
+Management Trainee (Coastal Odisha) 
+Odisha Knowledge Corporation Limited, Bhubaneswar Oct’18- Jan’2022 
+ Project: Online applications, Examination and admissions under TE&SCERT, Govt. of Odisha, Entrepreneurs 
+Network Management and ICT@Schools, Under Ministry of HRD, Govt. of India 
+ Key Responsibilities: 
+• Understanding project’s requirement and conducting requirement walkthrough sessions. 
+• Project planning, setting SOW, execution plan & calendars in consultation with customer. 
+• Coordinating with offshore development team and conducting functional testing. 
+• Sharing the project content with all relevant teams and assign work to them along with timelines and budget. 
+• Project Monitoring through Planned vs Achieved Report. 
+• Supervising a State-wide network of 120 entrepreneurs and working in a team of +20 core professionals for 
+executing different projects of Govt. of Odisha 
+• Identifying and motivating the young entrepreneurs of Odisha, Building their capacities to invest in and building 
+IT and other Infrastructure for spreading IT Literacy as well as Skill development programs for the masses 
+• Client Relationship Management (B2B): Understanding Client requirement and modifying our core e-learning 
+products to suit their needs, Maintaining good relationship and Cross selling. 
+ 
+• ICT @ School Project: Flagship program of Government of Odisha, installing and operating ICT labs to deliver 
+IT based education on a Build Own Operate Transfer (BOOT) basis for 4000 Secondary Schools worth Rs. 800 
+Crores 
+ 
+Project Trainee 
+Odisha Knowledge Corporation Limited, Bhubaneswar Sept’16-Sept’18(24 Months) 
+(OKCL is a public limited company promoted by Higher Education Department, Govt. Of Odisha) 
+   Key Responsibilities: 
+• Initiated and spearheaded efforts to create awareness among computer institutes and educational stakeholders 
+throughout Odisha about the e-learning products and services offered by the company. 
+• Developed and maintained strong relationships with computer institutes, training centers, and educational 
+institutions, serving as a primary point of contact for inquiries and support. 
+• Conducted comprehensive training sessions for network partners to ensure they were equipped with the knowledge 
+and resources needed to effectively promote and deliver the company's e-learning products. 
+• Utilized analytical tools and market research techniques to analyze the local educational landscape in Odisha, 
+identifying opportunities for expanding the company's offerings and introducing new e-learning-enabled vocational 
+courses. 
+• Collaborated closely with the Channel Partner Network to launch and promote new e-learning initiatives, providing 
+strategic guidance and support to ensure successful implementation and adoption. 
+• Implemented performance metrics and targets to track the progress and success of network partners, offering 
+guidance and support to help them achieve their goals and objectives. 
+ 
+      Additional Responsibilities (Social Media Management): 
+• Managed and curated content for the company's social media channels, including Facebook, Twitter, Instagram, 
+YouTube, and LinkedIn, ensuring a consistent and engaging online presence. 
+• Designed and created visually appealing social media posts and graphics using tools such as Canva, Adobe 
+Photoshop, and Adobe Illustrator, maintaining brand consistency and driving user engagement. 
+• Developed and executed social media marketing campaigns to promote company initiatives, events, and product 
+launches, effectively reaching and engaging target audiences. 
+• Implemented Facebook Ads campaigns to amplify the reach and visibility of company content and promotions, 
+optimizing campaigns based on performance data and analytics. 
+• Monitored and analyzed user engagement metrics on YouTube and Facebook, identifying trends and opportunities 
+for optimization and improvement, and providing insights to inform future content strategy decisions. 
+• Collaborated with cross-functional teams including marketing, sales, and content creation to align social media 
+efforts with overall business objectives and marketing strategies. 
+ 
+         Achievements: 
+• Successfully increased brand awareness and engagement across social media platforms, resulting in a significant 
+growth in followers and engagement metrics. 
+• Played a key role in expanding the company's network of partners and affiliates, contributing to the successful 
+launch and adoption of new e-learning initiatives and vocational courses in Odisha. 
+• Received commendations for outstanding performance and contributions to the company's marketing and outreach 
+efforts during the tenure as a Project Trainee. 
+ 
+ 
+ 
+ 
+ 
+
+G.A-17 (3rd
+t 
+Floor),BDA Colony, Bhubaneswar-751016 
+ 
+  SKILLS  
+     1. Web Development: 
+• Proficiency in HTML, CSS, JavaScript, and AJAX for robust front-end development. 
+• Experienced in using Axios for dynamic data fetching and state management. 
+• Expertise in modern web stacks such as TALL (Tailwind, Alpine.js, Laravel, Livewire) and RITL (React, 
+Inertia, Tailwind, Livewire) for building dynamic and responsive web applications. 
+    2. Framework Expertise: 
+• Extensive experience with Laravel, Bootstrap, Tailwind CSS, Alpine.js, and Livewire, contributing to scalable 
+and maintainable web application development. 
+• Skilled in using Filament PHP for creating highly customized and efficient admin panels and back-office 
+management systems. 
+   3. Database Management: 
+• Proficient in managing and manipulating databases with MySQL, crucial for backend data handling, storage, and 
+relational data management. 
+   4. User Interface Design: 
+• Ability to design intuitive and responsive user interfaces using Tailwind CSS and React, enhancing user 
+experience and accessibility. 
+• Skilled in graphic design tools such as Adobe Illustrator and Adobe Photoshop, along with multimedia creation 
+using Canva and Filmora. 
+   5. Project Management: 
+• Experienced in overseeing and coordinating projects, managing development teams, and ensuring timely project 
+milestones with modern project management techniques. 
+   6. SEO Optimization: 
+• Proficient in using SEO tools like SEMrush and implementing best practices to boost website visibility and search 
+engine ranking. 
+   7. Security Implementation: 
+• Experienced with implementing security features using reCAPTCHA v2 and Cloudflare CAPTCHA for spam and 
+abuse protection. 
+• Proficient in integrating Cloudflare R2 for secure and scalable data storage solutions. 
+   8. Digital Analytics: 
+• Skilled in leveraging Google Analytics for comprehensive tracking of website traffic, user engagement, and 
+critical site metrics. 
+   9. Content Development: 
+• Adept at creating clear, engaging, and accurate content tailored for various web audiences to maintain user 
+engagement and improve information dissemination. 
+  10. Payment System Integration: 
+• Hands-on experience integrating secure payment gateways, essential for e-commerce and online service-based 
+platforms. 
+  11. Custom User Roles & Permissions: 
+• Expertise in developing user management systems with complex roles and permissions for secure and diverse user 
+interactions. 
+  12. Cross-Platform Optimization: 
+• Ensuring websites are optimized for a variety of devices and platforms, enhancing accessibility and user 
+satisfaction. 
+ 
+  13. Client Relations and B2B Communication: 
+• Strong client relationship management skills, with the ability to understand client needs and customize solutions 
+accordingly for optimal results. 
+ 14. Office Software Expertise: 
+• Extensive proficiency in Microsoft Office Package and Microsoft 365, contributing to enhanced productivity and 
+seamless collaboration in both in-office and remote environments. 
+ 
+ 
+
+G.A-17 (3rd
+t 
+Floor),BDA Colony, Bhubaneswar-751016 
+ 
+  EDUCATION  
+  
+Biju Patnaik University of Technology  Oct’14 
+Bachelor of Technology in Electronics and Communication Engineering CGPA: 7.23/10.00 
+ 
+ 
+  ACHIEVEMENTS  
+ 
+➢ Received  the  Best  Employee  Award  for  the  year  2016-17 for successfully establishing company’s 
+new Service line “Online Admissions and Application Systems”. The project had 2, 13,879 and 
+3,03,496 applicants in the year 2014 and 2015 respectively and was a Cash Cow for the Company in 
+both years 
+ 
+ I started with OKCL at its nascent stage. i.e when the firm had just began its presence in Odisha. The firm's aim is to    
+provide Rural IT literacy in the state and I have been a part of it from past 2 years as the Project Manager. 
+I am born and brought up in the state so, Odiya comes naturally to me. Along with that I am comfortable with Hindi 
+and English too. 
+ 
+To start with I have worked with larger projects (examples) at district levels already and I have been able to effectively 
+overcome any challenges that I have faced over these years- for an instance, the biggest challenge that I faced........ 
+ 
+To continue.. I am a self driven person and I work with minimal intervention and push in a top down environment. I m 
+comfortable and also consider myself able enough to drive any project to completion with or without a team. 
+Additionally, I have also managed a team of people and have been able to timely deliver on any project or activity that 
+I have been assigned with or have taken up individually. 
+ 
+I have closely worked with IAS officers/govt officials etc within the State Govt to drive in ideas, present inputs and 
+handle   negotiations   which   have   affected  in   positive   results.   I   also   believe   in   proactive   approach   to   any 
+problem/situation. Would like to cite an example....... 
+ 
+I have travelled to many districts in Odisha to set up Learning centres and check their operations and wellbeing. Doing 
+follow up on their stability.and dealing with challenges is a major part of my KRA's. What I also learned during these 
+travels are that, people just need to reach out to the right set of people for their problems and I completely respect 
+PAD's vision to create such channels and provide effective reach and consulting to those in need and create a better 
+environment.
+
+G.A-17 (3rd
+t 
+Floor),BDA Colony, Bhubaneswar-751016 
+ 
+ 

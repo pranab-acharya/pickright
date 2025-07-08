@@ -1,110 +1,96 @@
-# AI Resume Evaluation API
+# ShortlistAI
 
-This is a Node.js-based backend API that uses **Google Gemini AI** to evaluate resumes against a given job description. It supports PDF and DOCX resume files and provides intelligent feedback, skill gap analysis, and a selection verdict.
+ShortlistAI is an AI-powered resume screening tool that helps recruiters evaluate and shortlist candidates instantly. Upload a resume, set job criteria, and get smart feedback and verdicts — all in seconds.
 
-## ✨ Features
+## Features
+- Upload resumes in PDF or DOCX format
+- Compare resumes against a job description
+- Get AI-generated feedback and selection verdict
+- RESTful API with easy integration
+- Fast, automated, and secure
 
-- Upload and parse resumes (PDF or DOCX)
-- Compare resume against a job description using Google Gemini AI
-- Get:
-  - Matching skills
-  - Gaps in skills/experience
-  - Final verdict: Selected or Rejected
-  - Brief justification
-- Simple JSON API
-
-## 📦 Tech Stack
-
+## Tech Stack
 - Node.js
 - Express.js
-- Multer (for file uploads)
-- `pdf-parse` and `mammoth` (for extracting text from PDF and DOCX)
-- Google Generative AI SDK (`@google/genai`)
-- dotenv (for managing environment variables)
+- Google Gemini AI API (`@google/genai`)
+- Multer (file uploads)
+- pdf-parse, mammoth (resume parsing)
+- Mongoose (for future DB integration)
+- dotenv (environment variable management)
 
-## 📂 Folder Structure
+## Getting Started
 
-```
-.
-├── uploads/           # Temporary storage for uploaded resumes
-├── .env               # Environment variables
-├── index.js           # Main application file
-└── README.md          # This file
-```
+### Prerequisites
+- Node.js (v18+ recommended)
+- npm
 
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/pranab-acharya/pickright.git
-cd pickright
-```
-
-### 2. Install Dependencies
-
+### Installation
 ```bash
 npm install
 ```
 
-### 3. Create a `.env` File
+### Environment Variables
+Create a `.env` file in the root directory. You can use `.env.example` as a template:
 
-```env
+```
 PORT=6001
-GEMINI_API_KEY=your_google_api_key
-GEMINI_MODEL=gemini-pro
+GEMINI_API_KEY=your_google_gemini_api_key
+GEMINI_MODEL="gemini-2.0-flash"
 ```
 
-> 🔑 You can obtain a Gemini API Key from: https://makersuite.google.com/app/apikey
-
-### 4. Start the Server
-
+### Running the Server
 ```bash
-node index.js
+npm run dev
+```
+The server will start at `http://localhost:6001` by default.
+
+## Usage
+
+### API Endpoint
+#### `POST /api/evaluate`
+- **Description:** Upload a resume and job description to get AI-powered feedback and a selection verdict.
+- **Form Data:**
+  - `resume` (file, required): PDF or DOCX resume file
+  - `job_description` (string, required): The job description text
+- **Response:**
+  - `feedback`: AI-generated feedback on the resume
+  - `verdict`: `Selected` or `Rejected`
+
+#### Example using `curl`:
+```bash
+curl -X POST http://localhost:6001/api/evaluate \
+  -F "resume=@/path/to/resume.pdf" \
+  -F "job_description=Your job description here"
 ```
 
-Server will be running on: `http://localhost:6001`
-
-## 📤 API Endpoint
-
-### `POST /api/evaluate`
-
-**Request:**
-
-- `Content-Type: multipart/form-data`
-- Fields:
-  - `resume`: File (PDF or DOCX)
-  - `job_description`: Text
-
-**Response:**
-
-```json
-{
-  "feedback": "Detailed AI feedback...",
-  "verdict": "Selected" // or "Rejected"
-}
+## Project Structure
+```
+├── controllers/
+│   └── resume-evaluate.controller.js
+├── routes/
+│   └── resume-upload.route.js
+├── services/
+│   └── gemini.service.js
+├── uploads/
+├── test/
+├── index.js
+├── package.json
+├── .env.example
+└── README.md
 ```
 
-## ❗ Supported File Types
+## Dependencies
+- express
+- @google/genai
+- multer
+- pdf-parse
+- mammoth
+- mongoose
+- dotenv
 
-- `.pdf` (application/pdf)
-- `.docx` (application/vnd.openxmlformats-officedocument.wordprocessingml.document)
-
-## 🧹 Cleanup
-
-Uploaded files are automatically deleted after processing.
-
-## 🛠️ Future Enhancements
-
-- Frontend UI for uploading resumes
-- Authentication and user accounts
-- Resume scoring system
-- Store resume analysis history
-
-## 📝 License
-
-ISC License
+## License
+ISC
 
 ---
 
-Built with 💻 by Pranab Acharya
+**Author:** Pranab Acharya
